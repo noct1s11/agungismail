@@ -1,4 +1,4 @@
-# easyshop
+# Project UAS
 
 A new Flutter project.
 
